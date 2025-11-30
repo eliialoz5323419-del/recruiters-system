@@ -1,0 +1,7 @@
+{
+  "name": "המגייסים",
+  "description": "פלטפורמת גיוס חכמה מבוססת AI למציאת ההתאמה המושלמת בין מועמדים למשרות.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
